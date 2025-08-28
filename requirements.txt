@@ -1,0 +1,4 @@
+
+python=3.11
+snowflake-snowpark-python
+streamlit
